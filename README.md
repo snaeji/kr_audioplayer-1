@@ -1,3 +1,5 @@
+Copied from: https://github.com/luanpotter/audioplayers
+
 # AudioPlayers
 
 A Flutter plugin to play multiple simultaneously audio files, works for Android and iOS.
